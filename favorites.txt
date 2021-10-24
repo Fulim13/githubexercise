@@ -1,3 +1,13 @@
+FAV FOOD
+=========
 fried chicken
 mcd 
 sushi
+
+====================================
+
+FAV MOV
+=========
+starwars
+avenger
+deadpool
